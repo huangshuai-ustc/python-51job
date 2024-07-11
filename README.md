@@ -1,7 +1,10 @@
 <h1 align='center'>python使用selenium爬取51job的岗位数据并分析</h1>
+
 ## 1、环境准备
+
 > pandas
 > selenium
+> 
 ## 2、代码修改
 打开data.py文件
 ```
